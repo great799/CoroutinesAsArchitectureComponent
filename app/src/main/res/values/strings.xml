@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coroutines</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="api_timeout">Api timed out!</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="auth_error">Authentication error!</string>
+</resources>
